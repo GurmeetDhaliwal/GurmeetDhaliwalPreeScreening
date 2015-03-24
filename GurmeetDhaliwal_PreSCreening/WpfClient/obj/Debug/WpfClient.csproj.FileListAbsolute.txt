@@ -1,0 +1,13 @@
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\bin\Debug\WpfClient.exe.config
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\bin\Debug\WpfClient.exe
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\bin\Debug\WpfClient.pdb
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\MainWindow.baml
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\MainWindow.g.cs
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\App.g.cs
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient.g.resources
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.Cache
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient.exe
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\GurmeetDhaliwal_PreSCreening\WpfClient\obj\Debug\WpfClient.csprojResolveAssemblyReference.cache

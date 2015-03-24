@@ -1,0 +1,9 @@
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\bin\Debug\GurmeetDhaliwal_PreSCreening.dll.config
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\bin\Debug\GurmeetDhaliwal_PreSCreening.dll
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\bin\Debug\GurmeetDhaliwal_PreSCreening.pdb
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\bin\Debug\EntityFramework.dll
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\bin\Debug\EntityFramework.xml
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\obj\Debug\GurmeetDhaliwal_PreSCreening.dll
+c:\users\a\documents\visual studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\obj\Debug\GurmeetDhaliwal_PreSCreening.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\bin\Debug\cardb.mdf
+C:\Users\a\Documents\Visual Studio 2012\Projects\GurmeetDhaliwal_PreSCreening\GurmeetDhaliwal_PreSCreening\obj\Debug\GurmeetDhaliwal_PreSCreening.csprojResolveAssemblyReference.cache
